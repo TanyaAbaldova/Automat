@@ -1,0 +1,2 @@
+# Automat
+Задачи Python
