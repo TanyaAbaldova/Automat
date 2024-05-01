@@ -1,6 +1,6 @@
 my_age = input ("Введите возраст:" )
 print("Ваш возраст:", my_age)
-my_age = int(my_age)6
+my_age = int(my_age)
 my_age = my_age+1
 print("Ваш возраст:", my_age)
 
