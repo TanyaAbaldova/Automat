@@ -1,4 +1,5 @@
 month_num = int(input())
+
 def month_to_season(month_num):
     if (month_num == 1) or (month_num == 2) or (month_num == 12):
         print ("Зима")
